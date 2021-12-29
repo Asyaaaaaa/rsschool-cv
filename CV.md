@@ -5,11 +5,14 @@
 **Phone:** +7 981 686-30-03
 
 
-**e-mail:** eliseeva-aa@mail.ru
+**e-mail:** eliseeva.js1@gmail.com
+
+
+**GitHub:** Asyaaaaaa
 
 
 ## About Me
-
+I work as a engineer in telecommunication company, have a big expirience and after all I would like to change field of activity. That is why I started to interest of IT.
 
 
 ## Skills
