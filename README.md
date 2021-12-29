@@ -1,6 +1,6 @@
 # rsschool-cv
 
-##  Anastasia Eliseeva
+## Anastasia Eliseeva
 
 ## Contact Info
 
