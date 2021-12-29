@@ -17,18 +17,18 @@ I work as a engineer in telecommunication company, have a big expirience and aft
 
 ## Skills
 
-*SQL
-*HTML
-*CSS
+* SQL
+* HTML
+* CSS
 
 
 
 ## Education
 
-*Saint Petersburg State Polytechnical University
+* Saint Petersburg State Polytechnical University
 Master´s degree in Business Administration, Organizational Management
-*Saint Petersburg State Technical University after M.A. Bonch-Bruevich
+* Saint Petersburg State Technical University after M.A. Bonch-Bruevich
 Multichannel telecommunication systems, Bachelor's degree in Multichannel telecommunication systems, Engineer degree
-*Be-Tester, QA Educational Courses
+* Be-Tester, QA Educational Courses
 
 ## Languages
