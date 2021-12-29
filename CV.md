@@ -32,3 +32,6 @@ Multichannel telecommunication systems, Bachelor's degree in Multichannel teleco
 * Be-Tester, QA Educational Courses
 
 ## Languages
+
+* **Russian** - native
+* **English** - somewhere between B1 Intermediate and B2 Upper Intermediate, according to online test at [EF SET Quick Check](https://www.efset.org/)
