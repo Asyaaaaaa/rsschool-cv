@@ -2,7 +2,7 @@
 
 
 ## Contact Info
-**Phone:** +7 981 686-30-03
+**Phone:** +7 
 
 
 **e-mail:** eliseeva.js1@gmail.com
