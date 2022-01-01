@@ -1,15 +1,4 @@
 # rsschool-cv
 
-##  Anastasia Eliseeva
-
-## Contact Info
-
-## About Me
-
-## Skills
-
-## Code Example
-
-## Education
-
-## Languages
+[https://Asyaaaaaa.github.io/rsschool-cv/cv](https://Asyaaaaaa.github.io/rsschool-cv/cv)
+[https://Asyaaaaaa.github.io/rsschool-cv/](https://Asyaaaaaa.github.io/rsschool-cv/)
